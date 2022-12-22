@@ -1,0 +1,14 @@
+version: '3'
+
+
+services:
+  pyChatGPT_TGbot:
+    build: ./
+    volumes:
+      - ./app:/app
+
+
+    command: python main.py &
+
+
+
