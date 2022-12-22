@@ -56,11 +56,11 @@ exec $SHELL
     cd Python-ChatGPT-TelegramBot-Docker
 
 
-### Step 8a: 輸入以下指令，開始建制本專案的容器，完成後會有1個container（記得先用nano指令修改main.py的OEPNAI api key的部分，還有加入自己的TelegramBot token和自己的TG帳號的id。）
+### Step 6a: 輸入以下指令，開始建制本專案的容器，完成後會有1個container（記得先用nano指令修改main.py的OEPNAI api key的部分，還有加入自己的TelegramBot token和自己的TG帳號的id。）
 
     make dcup
     
-### Step 8b: 也可以不用設置Docker就直接執行，請輸入以下指令，但要先有Python環境。
+### Step 6b: 也可以不用設置Docker就直接執行，請輸入以下指令，但要先有Python環境。
 
     python main.py &
 
