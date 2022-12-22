@@ -11,7 +11,7 @@
 
 #### 2. 本專案參考了以下前輩的方案改成製作，只針對剛學習Python或Docker的朋友來佈置TelegramBot在VPS上：
 
-https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel
+https://github.com/howarder3/GPT-Linebot-python-flask-on-vercel<br><br>
 https://github.com/n3d1117/chatgpt-telegram-bot
 
 #### 3. 可使用任何VPS建制，例如DigitalOcean, Linode或是vultr。 用ssh連入主機，輸入帳密後，
